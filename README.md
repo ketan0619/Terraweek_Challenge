@@ -1,8 +1,6 @@
 # Terraweek_Challenge
 
-<img width="289" height="248" alt="image" src="https://github.com/user-attachments/assets/2ac0d5fc-f220-429b-b8b3-7c08e1811e10" />
-
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/8360b494-712b-4ffd-8735-a6e5a5cdaa74" />
+<img width="289" height="248" alt="image" src="https://github.com/user-attachments/assets/2ac0d5fc-f220-429b-b8b3-7c08e1811e10" />  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/9eec047e-ecac-4c25-ae74-e9a307dd7767" />
 
 #Infrastructure as Code (IAC) 
 
