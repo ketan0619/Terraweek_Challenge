@@ -6,3 +6,6 @@ Infrastructure as Code is the ability to provision and manage the IT Infrastruct
 
 What problems does IaC solve compared to manually creating resources in the AWS console or any cloud platform? 
 It Automates the Infrastructure Setup using scripts and eliminate the lengthy touching and clicking procedure of creating the resources to setup the infrastructure.
+
+
+<img width="2400" height="870" alt="image" src="https://github.com/user-attachments/assets/de19163e-c388-4252-bf13-6cea18fbd1f3" />
