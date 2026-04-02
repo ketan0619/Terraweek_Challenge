@@ -34,6 +34,17 @@ Endpoints.
 
 -> Terraform is Declarative implies that terraform make sure the proper action is taken to reach the final desired state. And it is cloud-agnostic means that it can provision resources using one tool and HCL across multiple providers such as AWS, GCP, Azure, Oracle Cloud, etc. 
 
+```bash
+# macOS
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+
+# Linux (amd64)
+wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
+sudo apt update && sudo apt install terraform
+
+# Windows
+choco install terraform
 
 
 
