@@ -5,7 +5,8 @@
 ##Infrastructure as Code (IAC) 
 
 Infrastructure as Code is the ability to provision and manage the IT Infrastructure by using the machine readable code instead of going through manual process for provisioning. IAC in DevOps is critical in automating, rapidly deploying of software and its supported infrastructure. IAC is idempotent by nature as it apply same script multiple times and the result will be the same outcomes without creating duplicate resources.
-
+---
+---
 
 ``cloud-agnostic``
 
@@ -34,7 +35,7 @@ Endpoints.
 
 -> Terraform is Declarative implies that terraform make sure the proper action is taken to reach the final desired state. And it is cloud-agnostic means that it can provision resources using one tool and HCL across multiple providers such as AWS, GCP, Azure, Oracle Cloud, etc. 
 
-```bash
+```
 # macOS
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
